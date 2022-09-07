@@ -12,6 +12,7 @@
 ##  About <a name = "about"></a>
 
 Fork of https://github.com/RohanDebroy/heroku-buildpack-wkhtmltopdf to work with heroku-22 stack
+Works also with heroku-20
 
 ## License <a name="license"></a>
 MIT
